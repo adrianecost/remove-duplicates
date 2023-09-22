@@ -1,0 +1,21 @@
+{
+  "name": "meu-pacote-unico",
+  "version": "1.0.0",
+  "description": "um pacote para remover valores duplicados de uma lista",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unique",
+    "duplicates",
+    "list"
+  ],
+  "author": "adriane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "next": "^13.5.2",
+    "react": "^18.2.0"
+  }
+}
