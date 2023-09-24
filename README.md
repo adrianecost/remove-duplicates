@@ -9,7 +9,8 @@ Para utilizar esta função em seu projeto, siga estas etapas:
 1. Instale o pacote npm em seu projeto:
 
    ```shell
-   npm install remover-valores-duplicados
+   npm install meu-pacote-unico
+   
 2. Importe a função em seu código JavaScript ou TypeScript:
    const { removerValoresDuplicados } = require('remover-valores-duplicados');
 // Ou, se você estiver usando módulos ES6:
